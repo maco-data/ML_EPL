@@ -7,7 +7,7 @@ This project is for Machine Learning practice. I will learn how to predict the w
 -   [x] Scrape match data using request, BeautifulSoup, and pandas.
 -   [x] Clean the data and get it ready for machine learning using pandas.
 -   [ ] Make predictions about who will win a match using scikit-learn.
--   [ ]Measure error and improve our predictions.
+-   [ ] Measure error and improve our predictions.
 
 ## Code
 
