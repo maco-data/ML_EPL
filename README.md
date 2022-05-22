@@ -36,3 +36,10 @@ To follow this project, this is needed locally:
 I will be scraping [FBref](https://fbref.com/en/) to get the data first.
 
 For the predictions, I will be using the CSV file with all the data scrapped.
+
+## Disclaimer
+
+After running the code I found a couple of issues:
+
+-   FBref does not kicks me out of the server regarless of fulfilling the 3 seconds minimun rest betweent requests.
+-   To have a better dataset I manually set each link of the season I wanted to scrape.
